@@ -1,0 +1,40 @@
+.container {
+  width: auto;
+  background-color: #d80026;
+  padding: 20px;
+}
+
+.dropdown {
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background-color: #d80026;
+  width: 200px;
+}
+
+.content {
+  display: none;
+  position: absolute;
+}
+
+.item {
+  padding: 20px;
+  width: 120px;
+}
+
+.label {
+  float: right;
+  margin-left: 50px;
+}
+
+.title {
+  float: left;
+}
+
+.item:hover {
+  background-color: white;
+}
+
+.dropdown:hover .content {
+  display: block;
+}

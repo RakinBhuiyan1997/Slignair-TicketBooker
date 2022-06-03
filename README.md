@@ -15,12 +15,15 @@ Here is the flight select area where you can choose your flight.
 <img width="600" alt="Screen Shot 2022-06-02 at 7 18 25 PM" src="https://user-images.githubusercontent.com/91749487/171753568-83cd735a-e1a2-42bf-bdd0-b7e75ad77b78.png">
 
 Once a flight is chosen, it will show you what available seats are there. Un-available seats will be greyed and unclickable. 
+
 <img width="600" alt="Screen Shot 2022-06-02 at 7 18 42 PM" src="https://user-images.githubusercontent.com/91749487/171753612-645426c3-a95e-4936-8078-2ca1e5315836.png">
 
 On click, the selected seat color will turn red. The user will enter their information on the side and confirm there resrvation.
+
 <img width="600" alt="Screen Shot 2022-06-02 at 7 25 25 PM" src="https://user-images.githubusercontent.com/91749487/171754024-c92ae6b0-7b5d-4c52-ae4e-f63d0b85017b.png">
 
 Once the reservation is made, it will redirect to the confirmation page. You may also click on the reservation link above and enter the auto-generated Id from the confirmation page and it will show the user their flight details.
+
 <img width="600" alt="Screen Shot 2022-06-02 at 7 19 06 PM" src="https://user-images.githubusercontent.com/91749487/171925001-8de2d0cb-51d3-4b89-b8de-28e410de6b84.png">
 
 ## Languages Used
